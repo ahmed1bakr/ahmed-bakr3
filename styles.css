@@ -1,0 +1,163 @@
+body {
+  margin: 0;
+  background-color: #eeeeee;
+  font-family: 'Merriweather', serif;
+  margin-top: -60px;
+}
+
+h1 {
+  width: 30%;
+  font-size: 5rem;
+  margin: 10px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #3b6978;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.25rem;
+  margin: 0 auto;
+  color: #3b6978;
+  font-weight: bolder;
+  line-height: 2rem;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #3b6978;
+  font-weight: bolder;
+}
+
+.top-container {
+  text-align: center;
+
+}
+
+.middel-container {
+  text-align: center
+}
+
+.bottom-container {
+text-align: center;
+margin: 80px 0 40px 0;
+}
+
+.cloud1 {
+  width: 15%;
+  position: relative;
+  left: 200px;
+  top: 50px;
+}
+
+.cloud2 {
+  width: 15%;
+  position: relative;
+  right: 250px;
+  bottom: 30px;
+}
+
+.mountain {
+  width: 40%;
+  display: block;
+  margin: -120px auto 0 auto;
+}
+.hr-top{
+  width: 10%;
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: #c7b198;
+  margin: 30px 0 30px 0;
+  position: relative;left: 600px;
+}
+
+.my-photo{
+  width: 10%;
+  border-radius: 50%;
+  position: relative;
+}
+
+.skills{
+  margin: 30px 0 30px 0;
+}
+
+.accounting-photo{
+  width: 25%;
+  border-radius: 50%;
+  position: relative;
+  float: left;
+  margin-right: 30px;
+}
+.developer-photo{
+  border-radius: 50%;
+  position: relative;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.link{
+  color: #ffffff;
+  text-align: center;
+position: relative;top: 40px;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.link:hover{
+  color: #ffcac2;
+}
+
+.hello{
+  font-weight: bolder;
+  margin-top: 20px;
+}
+.skill-1{
+  width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.skill-2{
+  width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+}
+
+
+
+.btn {
+	background-color:#3b6978;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:17px 31px;
+	text-decoration:none;
+  margin: 20px 0 80px 0;
+}
+.btn:hover {
+	background-color:#709fb0;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.footer{
+  background-color: #3b6978;
+  height: 150px;
+  text-align: center;
+  color: white;
+
+
+}
+
+.copy{
+position: relative; top: 55px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.75rem;
+}
